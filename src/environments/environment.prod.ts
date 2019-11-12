@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'http://localhost/ra/api/api/'
+  baseUrl: 'https://releasemanagementweb20191111061006.azurewebsites.net/api/'
 };
